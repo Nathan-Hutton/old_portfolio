@@ -1,5 +1,5 @@
 # [Ray-Tracer](https://github.com/Nathan-Hutton/Ray-Tracer)
-![Ray-Traced image](images/custom_scene.png) ![Ray-Traced gourd](images/gourd.png) ![2 Ray-traced spheres](images/final.png)
+![Ray-Traced image](images/custom_scene.png) ![Ray-Traced gourd](images/gourd.png) ![2 Ray-traced spheres](images/final.png) ![Ray-traced triange mesh sphere](images/sphere.png)
 
 ## Replicate the physics of light in a 3D environment to create an image.
 ### All done in python, no packages. Functionally for multiple objects, smooth shading, spheres, triangle meshes, directional, point, and Phong lighting, shadows, and 3D transformations.
