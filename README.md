@@ -15,3 +15,5 @@
 - [Taeden](https://github.com/Taedenn) completed nearly all artwork, animations, level design, and the mini-map. 
 - [Ben](https://github.com/Groovingo) worked on music and the graphic design of the main menu. 
 - I worked on the logic of the game loops, movement, menus, online functonality, and sound effects.
+
+# [View PDF of my Resume](NathanHutton.pdf)
